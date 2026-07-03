@@ -238,7 +238,7 @@ export const siteConfig = {
     // Tu nombre de usuario de PayPal.me
     // Para obtenerlo: ve a paypal.com > Perfil > Configura tu link PayPal.me
     // Ejemplo: si tu link es paypal.me/juanperez, escribe "juanperez"
-    paypalMeUsername: "PGutierrezCarrera",
+    paypalMeUsername: "vibecodingg3",
     // Monto sugerido en dolares. Pon 0 para que el comprador elija cuanto pagar.
     defaultAmount: 0,
     currency: "USD",
